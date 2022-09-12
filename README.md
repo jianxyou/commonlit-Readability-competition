@@ -8,6 +8,7 @@ https://www.kaggle.com/competitions/commonlitreadabilityprize
 
 # My strategy 
 i used clrp pretrained model 
+https://www.kaggle.com/datasets/maunish/clrp-roberta-base
 
 and then apply the 
 
