@@ -1,6 +1,7 @@
 # commonlit-Readability-competition
 https://www.kaggle.com/competitions/commonlitreadabilityprize. 
-First nlp project, learned and familiared with lots of new concepts and tools.
+
+First nlp project, learned and familiared with lots of new concepts and tools. 
 
 # My strategy 
 Start from a roberta model pre-trained on CommonLit readability dataset on MaskedLanguageModeling task.
