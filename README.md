@@ -1,5 +1,5 @@
 # commonlit-Readability-competition
-https://www.kaggle.com/competitions/commonlitreadabilityprize
+https://www.kaggle.com/competitions/commonlitreadabilityprize. 
 First nlp project, learned and familiared with lots of new concepts and tools.
 
 # My strategy 
